@@ -1,8 +1,5 @@
 ### Helluw, im elsa safitri 👋
 
-<!--
-**elsaelsa01/elsaelsa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/elsaelsa01/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=elsaelsa01&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
