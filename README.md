@@ -1,4 +1,4 @@
-### Helluw, im elsa safitri 👋
+### Helluw, im elsa safitri - aka els 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/elsaelsa01/badges/large"/><br /><br />
