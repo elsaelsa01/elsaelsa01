@@ -1,7 +1,7 @@
 <p align = "center"> <img src="https://user-images.githubusercontent.com/126873071/224061638-86c4806a-df18-4d90-bfe4-df831ad6b60f.jpeg" height="600" width="1600"></p>
 <h1 align="center">Hi 👋, I'm Elsa Safitri</h1>
 <h3 align="center">Spiderman's control to watch your mouth</h3>
-<img align ="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/126873071/224063660-3f194dca-987f-4e3c-9c70-45766356d77a.gif" height="400">
+<img align ="right" alt="coding" width="350" src ="https://user-images.githubusercontent.com/126873071/224066161-d5d1bbf9-4d8d-4904-858f-7a06c5bd6678.gif" height="350">
 ">
 - 🔭 I’m currently working on **Mitsubishi motors**
 
